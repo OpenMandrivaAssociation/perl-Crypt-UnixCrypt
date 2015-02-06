@@ -3,7 +3,7 @@
 Summary:	Crypt-UnixCrypt module for perl 
 Name:		perl-%{real_name}
 Version:	1.0
-Release:	7
+Release:	8
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
